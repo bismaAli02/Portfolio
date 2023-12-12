@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ba8f2eea.css",
-    "main.js": "/Portfolio/static/js/main.58f6bb35.js",
+    "main.js": "/Portfolio/static/js/main.e16b51d6.js",
     "static/media/about04.png": "/Portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/Portfolio/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/Portfolio/static/media/about01.080509de05322b7aafda.png",
@@ -11,6 +11,7 @@
     "static/media/about03.png": "/Portfolio/static/media/about03.c26c2547bb1a423cf283.png",
     "static/media/spotify.png": "/Portfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/nb.png": "/Portfolio/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/cs.png": "/Portfolio/static/media/cs.a7c9c03446bdf9cad301.png",
     "static/media/asus.png": "/Portfolio/static/media/asus.514bc34955008a92e09f.png",
     "static/media/adidas.png": "/Portfolio/static/media/adidas.83df8153294f9137d308.png",
     "static/media/bolt.png": "/Portfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
@@ -18,7 +19,10 @@
     "static/media/sass.png": "/Portfolio/static/media/sass.36e863bfbcb25c109d00.png",
     "static/media/node.png": "/Portfolio/static/media/node.8683d89cf78ffae3d1f7.png",
     "static/media/cpp.png": "/Portfolio/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/sw.png": "/Portfolio/static/media/sw.38064266681bb0b31a0e.png",
     "static/media/graphql.png": "/Portfolio/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/web.jpeg": "/Portfolio/static/media/web.e9d75fe17d4f1b59fc59.jpeg",
+    "static/media/sql.jpeg": "/Portfolio/static/media/sql.03177bec863763ef6b6c.jpeg",
     "static/media/amazon.png": "/Portfolio/static/media/amazon.0a8be1f53138b5c52456.png",
     "static/media/mobile.png": "/Portfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
     "static/media/email.png": "/Portfolio/static/media/email.37b9e890eea501421fbf.png",
@@ -29,10 +33,10 @@
     "index.html": "/Portfolio/index.html",
     "static/media/circle.svg": "/Portfolio/static/media/circle.ae5f84b3853b9e34aa83cf8dada715c5.svg",
     "main.ba8f2eea.css.map": "/Portfolio/static/css/main.ba8f2eea.css.map",
-    "main.58f6bb35.js.map": "/Portfolio/static/js/main.58f6bb35.js.map"
+    "main.e16b51d6.js.map": "/Portfolio/static/js/main.e16b51d6.js.map"
   },
   "entrypoints": [
     "static/css/main.ba8f2eea.css",
-    "static/js/main.58f6bb35.js"
+    "static/js/main.e16b51d6.js"
   ]
 }
